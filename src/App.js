@@ -128,6 +128,7 @@ class App extends Component {
                 {/* If the syntax below looks unfamiliar, please take the following
               course:
               https://www.udacity.com/course/es6-javascript-improved--ud356
+              testing a small change here
                 */}
                 <p>{`${userName}\'s favorite movie is "${favMovieName}."`}</p>
               </li>
